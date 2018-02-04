@@ -3,7 +3,7 @@ Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Guillaume Grossetie <h
 :idprefix:
 :idseparator: -
 :uri-nodejs: http://nodejs.org
-:uri-opal: http://opalrb.org
+:uri-opal: http://opalrb.com
 :uri-repo: https://github.com/asciidoctor/asciidoctor.js
 :uri-freesoftware: https://www.gnu.org/philosophy/free-sw.html
 ifndef::uri-rel-file-base[:uri-rel-file-base: link:]
@@ -94,7 +94,7 @@ You should see the following output in your terminal:
 [.output]
 
     <div class="paragraph">
-    <p><a href="http://asciidoctor.org"><strong>Asciidoctor</strong></a> running on <a href="http://opalrb.org"><em>Opal</em></a> brings AsciiDoc to Node.js!</p>
+    <p><a href="http://asciidoctor.org"><strong>Asciidoctor</strong></a> running on <a href="http://opalrb.com"><em>Opal</em></a> brings AsciiDoc to Node.js!</p>
     </div>
 
 == Advanced topics
